@@ -1,6 +1,6 @@
 # Debug-Log-for-pppwn-test
 
-# this project is for test change the values of pppwn.py For [STAGE2:DEFEAT KASLR]
+# this project is for test change the values of pppwn.py For [STAGE2:DEFEAT KASLR] to make it work properly.
 
 # Requirements:
 need those already installed

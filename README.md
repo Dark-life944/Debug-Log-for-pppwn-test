@@ -14,9 +14,11 @@ pip install psutil scapy
 
 ## usage 
 
-1 download this project 
-2 modify stage1.bin and stage2.bin for your firmware 
-3 run [debug log.exe]
+-1 download this project 
+
+-2 modify stage1.bin and stage2.bin for your firmware 
+
+-3 run [debug log.exe]
 
 # features:
 .....
